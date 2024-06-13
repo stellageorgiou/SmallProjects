@@ -1,0 +1,26 @@
+[
+    {
+        "breed": "Working Cocker Spaniel",
+        "size": "Small-Medium",
+        "temperament": "Playful, Friendly, Faithful",
+        "energy_level": "High",
+        "coat_type_and_maintenance": "Double coat, sheds, regular grooming",
+        "trainability": "High"
+    },
+    {
+        "breed": "Scottish Terrier",
+        "size": "Small",
+        "temperament": "Stubborn, Alert, Independent",
+        "energy_level": "Medium",
+        "coat_type_and_maintenance": "Double coat, wiry, requires handstripping",
+        "trainability": "Low"
+    },
+    {
+        "breed": "Labrador Retriever",
+        "size": "Large",
+        "temperament": "Kind, Trusting, Intelligent",
+        "energy_level": "High",
+        "coat_type_and_maintenance": "Short coat, low maintenance",
+        "trainability": "High"
+    }
+]
